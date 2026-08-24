@@ -1,7 +1,7 @@
 package multipleinheritance;
 
 public class Multiple_Inheritance_Child implements Multiple_Inheritance_P1 ,Multiple_Inheritance_P2 {
-	public void method(String name) {
+	public void method(String name) { // method
 		System.out.println(name);
 	}
 
